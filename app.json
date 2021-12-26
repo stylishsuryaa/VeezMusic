@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/levina-lab/veezmusic",
+    "repository": "https://github.com/stylishsuryaa/veezmusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -41,27 +41,27 @@
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "veezmusicbot"
+            "value": "Zaynmalik_gc_bot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "veezasisstant"
+            "value": "Zayn_vc_assistant"
         },
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
-            "required": false,
-            "value": "https://telegra.ph/file/8628c642a266a22effd8c.png"
+            "required": true,
+            "value": "https://telegra.ph/file/009774792540b77b7dadc.jpg"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram username without @",
-            "required": false,
-            "value": "dlwrml"
+            "required": true,
+            "value": "Zayn_assistant"
         },
         "ALIVE_NAME": {
             "description": "fill with the nickname of your telegram account",
-            "required": false,
-            "value": "Levina"
+            "required": true,
+            "value": "Sk"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -82,8 +82,8 @@
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, fill the channel username here without @",
-            "required": false,
-            "value": "levinachannel"
+            "required": true,
+            "value": "zaynmaliklog"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, fill the group username here without @",
